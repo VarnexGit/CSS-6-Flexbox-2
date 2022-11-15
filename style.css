@@ -1,0 +1,24 @@
+
+.container
+{
+    display: flex;
+    justify-content: center;  
+}
+
+img {
+    width: 600px;
+    height: 400px ;
+}
+
+.tekst {
+    background-color: lightgray;
+    width: 600px;
+    height: 400px;
+    padding-left: 20px;
+    
+    
+}
+h1 p
+{
+    margin-top: 100px;
+}
